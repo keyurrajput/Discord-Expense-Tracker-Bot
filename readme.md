@@ -1,6 +1,6 @@
 # Discord Expense Tracker Bot
 
-A personal finance bot that turns your Discord DMs into a simple expense management system. Send expenses like "150, lunch" or "45, samosa, bikaner" and they're instantly logged to Google Sheets with timestamps.
+A personal finance bot that turns your Discord DMs into a simple expense management system. Send expenses and they're instantly logged to Google Sheets with timestamps.
 
 ## Features
 
